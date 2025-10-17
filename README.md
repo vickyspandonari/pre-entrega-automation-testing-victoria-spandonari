@@ -45,3 +45,7 @@ En la TERMINAL: pip install selenium webdriver pytest pytest-html
 
 Para ejecutar el conjunto completo de pruebas y generar el reporte de resultados en formato html usa el siguiente comando en la TERMINAL:
 pytest -v --html=reports/reporte.html
+
+
+NOTA: Acceso a la Planilla "Pre-Entrega | Casos de Prueba": 
+https://docs.google.com/spreadsheets/d/1L3jsaTyrRStMjMl8Lhp9ruj0vXjqAFqJ3GaQeGShi64/edit?usp=sharing
